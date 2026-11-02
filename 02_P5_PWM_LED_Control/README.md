@@ -45,4 +45,7 @@ Web Serial API와 `TaskScheduler` 라이브러리를 활용하여 **p5.js 웹 �
 
 
 
+https://github.com/user-attachments/assets/5cf480a9-c2a5-435a-8bc5-478936ecc066
+
+
 * **슬라이더 조작 시**: 슬라이더를 위아래로 움직이면 9번 핀에 연결된 LED의 밝기가 0에서 255까지 부드럽게 변화합니다.
