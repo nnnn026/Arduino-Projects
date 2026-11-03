@@ -33,6 +33,10 @@ p5.js의 ml5.js HandPose 모델을 활용해 웹캠으로 손동작(엄지-검�
 
 ## 2. 스케치 및 주요 로직 설명 (Sketch Details)
 
+###  Code Links
+*  **Arduino Firmware:** [`LED_PWM_Contro.ino`](./LED_PWM_Contro.ino)
+*  **p5.js Sketch:** [`sketch.js`](./sketch.js)
+
 ### Web Serial API 연결 방식
 
 별도의 로컬 서버(Node.js 등)나 시리얼 스플리터를 거치지 않고, 브라우저 표준 기능인 **Web Serial API**를 도입했습니다.
