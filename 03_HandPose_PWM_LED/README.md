@@ -1,3 +1,7 @@
+
+
+
+
 ## HandPose_PWM_LED
 
 p5.js의 ml5.js HandPose 모델을 활용해 웹캠으로 손동작(엄지-검지 거리)을 인식하고, Web Serial API를 통해 아두이노에 제어 신호를 보내 LED의 밝기(PWM)를 실시간으로 조절하는 프로젝트입니다.
@@ -70,7 +74,7 @@ p5.js의 ml5.js HandPose 모델을 활용해 웹캠으로 손동작(엄지-검�
 
 ## 3. 실습 영상 (Demo Video)
 
-> 아래 영역에서 실제 동작 시연 영상을 확인하실 수 있습니다.
+> [아래 영역에서 실제 동작 시연 영상을 확인하실 수 있습니다.](https://github.com/user-attachments/assets/cb359a20-1cc1-424c-bd67-34e41d83ff29)
 
 ---
 
