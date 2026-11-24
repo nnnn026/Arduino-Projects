@@ -92,7 +92,6 @@ HTTP GET 요청을 통해 `Field 1`에 임계치(`800`)를 초과하는 값(`900
 
 ## 5. 실행 화면 캡처 (첨부 영역)
 
-> 💡 GitHub 업로드 후 아래 이미지 경로에 실제 캡처 이미지를 추가해 주세요.
 * **ThingHTTP 설정 화면:**
   
   <img width="300" height="300" alt="ThingHTTP" src="https://github.com/user-attachments/assets/1a6043ae-ad9f-4425-aa38-64c122bcf2ed" />
