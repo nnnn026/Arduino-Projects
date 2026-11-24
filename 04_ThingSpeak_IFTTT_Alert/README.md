@@ -94,12 +94,19 @@ HTTP GET 요청을 통해 `Field 1`에 임계치(`800`)를 초과하는 값(`900
 
 > 💡 GitHub 업로드 후 아래 이미지 경로에 실제 캡처 이미지를 추가해 주세요.
 * **ThingHTTP 설정 화면:**
-  <img width="300" height="380" alt="ThingHTTP" src="https://github.com/user-attachments/assets/1a6043ae-ad9f-4425-aa38-64c122bcf2ed" />
+  
+  <img width="300" height="300" alt="ThingHTTP" src="https://github.com/user-attachments/assets/1a6043ae-ad9f-4425-aa38-64c122bcf2ed" />
+  
 * **React 설정 화면:**
+  
   <img width="300" height="380" alt="React" src="https://github.com/user-attachments/assets/0938874b-d007-4f25-b4ba-ffc413c7b5df" />
+  
 * **ThingSpeak 채널 그래프 (Field 1 = 900):**
+  
   <img width="400" height="400" alt="my first channel" src="https://github.com/user-attachments/assets/0ffab2d8-6d31-40f0-b911-302db1b04ead" />`
+  
 * **스마트폰 IFTTT 알림 수신 화면:**
+  
   <img width="300" height="600" alt="IFTTT" src="https://github.com/user-attachments/assets/51e2ea4d-df0a-4877-854f-393cd949de1e" />
 
 
